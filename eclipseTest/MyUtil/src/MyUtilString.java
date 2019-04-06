@@ -15,6 +15,19 @@ public class MyUtilString {
             
              System.out.println(str.replaceAll(".java", ".class") + ",");
           
+             
+             
+             System.out.println(str.replaceAll(".java", ".class") + ",");
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             System.out.println(str.replaceAll(".java", ".class") + ",");
         }
     }
 
